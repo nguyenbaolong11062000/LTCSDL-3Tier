@@ -1,0 +1,18 @@
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.deps.json
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.dll
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.AssemblyInfoInputs.cache
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.AssemblyInfo.cs
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.pdb
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.csprojAssemblyReference.cache
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.csproj.CoreCompileInputs.cache
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.dll
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.pdb
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.deps.json
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.dll
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.pdb
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.AssemblyInfo.cs
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.dll
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.pdb

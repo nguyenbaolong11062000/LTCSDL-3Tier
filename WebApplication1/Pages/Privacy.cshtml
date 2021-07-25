@@ -1,0 +1,93 @@
+﻿@page
+@model PrivacyModel
+@{
+    ViewData["Title"] = "Xử lý dữ liệu với bảng [Categories]";
+}
+<h1>@ViewData["Title"]</h1>
+
+<hr />
+<p>Thông tin bang Category truoc khi update va delete: </p>
+<table style="width:325px;">
+    <tr>
+        <th width="20%">Cate ID</th>
+        <th width="40%">Category Name</th>
+        <th width="40%">Description</th>
+    </tr>
+    @foreach (var row in Model.listall)
+    {
+        <tr>
+            <td>@row.CategoryID</td>
+            <td>@row.CategoryName</td>
+            <td>@row.Description</td>
+        </tr>
+    }
+</table>
+<hr />
+
+<hr />
+
+<p>Thong tin bang Categories sau khi cap nhat voi CategoryID la 8</p>
+
+<table style="width:400px;">
+    <tr>
+        <th width="20%">Cate ID</th>
+        <th width="40%">Category Name</th>
+        <th width="40%">Description</th>
+    </tr>
+    @foreach (var row in Model.listupdate)
+    {
+        <tr>
+            <td>@row.CategoryID</td>
+            <td>@row.CategoryName</td>
+            <td>@row.Description</td>
+        </tr>
+    }
+</table>
+
+<hr />
+
+
+<hr />
+
+<p>Them mot dong du lieu vao bang Categories</p>
+
+<table style="width:400px;">
+    <tr>
+        <th width="20%">Cate ID</th>
+        <th width="40%">Category Name</th>
+        <th width="40%">Description</th>
+    </tr>
+    @foreach (var row in Model.listinsert)
+    {
+        <tr>
+            <td>@row.CategoryID</td>
+            <td>@row.CategoryName</td>
+            <td>@row.Description</td>
+        </tr>
+    }
+</table>
+
+<hr />
+
+
+<hr />
+
+<p>Thong tin bang Categories sau khi xoa Categories co ID: @Model.CateID</p>
+
+<table style="width:400px;">
+    <tr>
+        <th width="20%">Cate ID</th>
+        <th width="40%">Category Name</th>
+        <th width="40%">Description</th>
+    </tr>
+    @foreach (var row in Model.listdelete)
+    {
+        <tr>
+            <td>@row.CategoryID</td>
+            <td>@row.CategoryName</td>
+            <td>@row.Description</td>
+        </tr>
+    }
+</table>
+
+<hr />

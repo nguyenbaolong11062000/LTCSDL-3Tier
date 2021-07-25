@@ -1,0 +1,24 @@
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\LTCSDL.BLL\bin\Debug\netcoreapp3.1\LTCSDL.BLL.deps.json
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\LTCSDL.BLL\bin\Debug\netcoreapp3.1\LTCSDL.BLL.dll
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\LTCSDL.BLL\bin\Debug\netcoreapp3.1\LTCSDL.BLL.pdb
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\LTCSDL.BLL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.dll
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\LTCSDL.BLL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.pdb
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\LTCSDL.BLL\obj\Debug\netcoreapp3.1\LTCSDL.BLL.csprojAssemblyReference.cache
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\LTCSDL.BLL\obj\Debug\netcoreapp3.1\LTCSDL.BLL.AssemblyInfoInputs.cache
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\LTCSDL.BLL\obj\Debug\netcoreapp3.1\LTCSDL.BLL.AssemblyInfo.cs
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\LTCSDL.BLL\obj\Debug\netcoreapp3.1\LTCSDL.BLL.csproj.CoreCompileInputs.cache
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\LTCSDL.BLL\obj\Debug\netcoreapp3.1\LTCSDL.BLL.csproj.CopyComplete
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\LTCSDL.BLL\obj\Debug\netcoreapp3.1\LTCSDL.BLL.dll
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\LTCSDL.BLL\obj\Debug\netcoreapp3.1\LTCSDL.BLL.pdb
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\LTCSDL.BLL\bin\Debug\netcoreapp3.1\LTCSDL.BLL.deps.json
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\LTCSDL.BLL\bin\Debug\netcoreapp3.1\LTCSDL.BLL.dll
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\LTCSDL.BLL\bin\Debug\netcoreapp3.1\LTCSDL.BLL.pdb
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\LTCSDL.BLL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.dll
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\LTCSDL.BLL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.pdb
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\LTCSDL.BLL\obj\Debug\netcoreapp3.1\LTCSDL.BLL.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\LTCSDL.BLL\obj\Debug\netcoreapp3.1\LTCSDL.BLL.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\LTCSDL.BLL\obj\Debug\netcoreapp3.1\LTCSDL.BLL.AssemblyInfo.cs
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\LTCSDL.BLL\obj\Debug\netcoreapp3.1\LTCSDL.BLL.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\LTCSDL.BLL\obj\Debug\netcoreapp3.1\LTCSDL.BLL.csproj.CopyComplete
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\LTCSDL.BLL\obj\Debug\netcoreapp3.1\LTCSDL.BLL.dll
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\LTCSDL.BLL\obj\Debug\netcoreapp3.1\LTCSDL.BLL.pdb

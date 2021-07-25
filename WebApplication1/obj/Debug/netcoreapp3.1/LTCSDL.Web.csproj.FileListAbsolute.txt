@@ -1,0 +1,94 @@
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\LTCSDL.Web.exe
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\LTCSDL.Web.deps.json
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\LTCSDL.Web.runtimeconfig.json
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\LTCSDL.Web.runtimeconfig.dev.json
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\LTCSDL.Web.dll
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\LTCSDL.Web.pdb
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\LTCSDL.Web.Views.dll
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\LTCSDL.Web.Views.pdb
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\LTCSDL.Web.csprojAssemblyReference.cache
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\LTCSDL.Web.AssemblyInfoInputs.cache
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\LTCSDL.Web.AssemblyInfo.cs
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\LTCSDL.Web.csproj.CoreCompileInputs.cache
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\LTCSDL.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\LTCSDL.Web.RazorAssemblyInfo.cache
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\LTCSDL.Web.RazorAssemblyInfo.cs
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\LTCSDL.Web.TagHelpers.input.cache
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\LTCSDL.Web.TagHelpers.output.cache
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\LTCSDL.Web.RazorCoreGenerate.cache
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\LTCSDL.Web.RazorTargetAssemblyInfo.cache
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\LTCSDL.Web.RazorTargetAssemblyInfo.cs
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\LTCSDL.Web.Views.pdb
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\LTCSDL.Web.StaticWebAssets.Manifest.cache
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\LTCSDL.Web.StaticWebAssets.xml
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\LTCSDL.Web.dll
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\LTCSDL.Web.pdb
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\LTCSDL.Web.genruntimeconfig.cache
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\LTCSDL.Web.csproj.CopyComplete
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\LTCSDL.BLL.dll
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\LTCSDL.DAL.dll
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\LTCSDL.BLL.pdb
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL_IT81_3Tier\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\LTCSDL.DAL.pdb
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\LTCSDL.Web.exe
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\LTCSDL.Web.deps.json
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\LTCSDL.Web.runtimeconfig.json
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\LTCSDL.Web.runtimeconfig.dev.json
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\LTCSDL.Web.dll
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\LTCSDL.Web.pdb
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\LTCSDL.Web.Views.dll
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\LTCSDL.Web.Views.pdb
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\LTCSDL.BLL.dll
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\LTCSDL.DAL.dll
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\LTCSDL.BLL.pdb
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\bin\Debug\netcoreapp3.1\LTCSDL.DAL.pdb
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\LTCSDL.Web.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\LTCSDL.Web.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\LTCSDL.Web.AssemblyInfo.cs
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\LTCSDL.Web.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\LTCSDL.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\LTCSDL.Web.RazorAssemblyInfo.cache
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\LTCSDL.Web.RazorAssemblyInfo.cs
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\LTCSDL.Web.StaticWebAssets.Manifest.cache
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\LTCSDL.Web.StaticWebAssets.xml
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\scopedcss\bundle\LTCSDL.Web.styles.css
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\LTCSDL.Web.TagHelpers.input.cache
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\LTCSDL.Web.TagHelpers.output.cache
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\LTCSDL.Web.RazorCoreGenerate.cache
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\LTCSDL.Web.RazorTargetAssemblyInfo.cache
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\LTCSDL.Web.RazorTargetAssemblyInfo.cs
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\LTCSDL.Web.Views.pdb
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\LTCSDL.Web.csproj.CopyComplete
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\LTCSDL.Web.dll
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\LTCSDL.Web.pdb
+C:\Users\PC\Desktop\ADO Dot NET\LTCSDL-IT81-3Tier\WebApplication1\obj\Debug\netcoreapp3.1\LTCSDL.Web.genruntimeconfig.cache
